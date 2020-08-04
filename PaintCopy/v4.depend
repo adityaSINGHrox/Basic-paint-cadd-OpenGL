@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1596541238 source:c:\users\aditya singh\desktop\learnopengl\official paint copy\v4\main.cpp
+	<gl/glut.h>
+	<iostream>
+	<cmath>
+
